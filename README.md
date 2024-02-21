@@ -7,7 +7,7 @@ Computer Science Student at King Mongkut's University of Technology Thonburi
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [jedipw.com](http://jedipw.com/)
 *   ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com)
-*   🧠  I'm learning Go, Docker, and automated CI/CD.
+*   🧠  I'm currently learning Go, Docker, and automated CI/CD.
 
 ### Skills 
 <p align="left">
