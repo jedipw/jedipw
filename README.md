@@ -8,7 +8,7 @@ Computer Science Student at King Mongkut's University of Technology Thonburi
 *   🖥️  See my portfolio at [jedipw.com](http://jedipw.com/).
 *   ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
 *   🚀  I'm currently working on [PIIDataDetector](http://github.com/jedipw/PIIDataDetector).
-*   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and Unit Testing.
+*   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and testing.
 
 ### Skills 
 <p align="left">
