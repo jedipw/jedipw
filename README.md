@@ -9,6 +9,7 @@ Computer Science Student at King Mongkut's University of Technology Thonburi
 *   ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
 *   🚀  I'm currently working on [PIIDataDetector](http://github.com/jedipw/PIIDataDetector).
 *   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and testing.
+*   🧮  I'm actively practicing solving data structures and algorithms problems on LeetCode. View them [here](https://github.com/jedipw/LeetCodeCollection).
 
 ### Skills 
 <p align="left">
