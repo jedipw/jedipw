@@ -11,7 +11,6 @@ For more information ℹ️
 *  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
 *   🚀  I'm currently working on [PIIDataDetector (Machine Learning Project)](http://github.com/jedipw/PIIDataDetector), BakingUp (Senior Project), and Sentiment Analysis and Spam Detection (Data Mining Project).
 *   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and testing.
-*   🧮  I'm actively practicing solving data structures and algorithms problems on LeetCode. View them here: [LeetCodeCollection](https://github.com/jedipw/LeetCodeCollection)
 
 ### Skills 
 
