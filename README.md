@@ -1,7 +1,7 @@
 Pawin Nakvisai — @jedipw
 ======================================================================================================================================
 
-Hello 👋, I'm Jedi — a junior computer science student at King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development. Right now, I'm seeking an internship to leverage my skills and gain practical experience.
+Hello 👋, I'm Jedi — a junior computer science student at King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development.
 
 For more information ℹ️
 ----------------------------------------------------------------------------
