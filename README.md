@@ -9,7 +9,7 @@ For more information ℹ️
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [jedipw.com](http://jedipw.com/).
 *  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
-*   🚀  I'm currently working on [PIIDataDetector (Machine Learning Project)](http://github.com/jedipw/PIIDataDetector), BakingUp (Senior Project), and Sentiment Analysis and Spam Detection (Data Mining Project).
+*   🚀  I'm currently working on [PIIDataDetector (Machine Learning Project)](http://github.com/jedipw/PIIDataDetector), [BakingUp (Senior Project)](https://github.com/BakingUp), and Sentiment Analysis and Spam Detection (Data Mining Project).
 *   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and testing.
 
 ### Skills 
