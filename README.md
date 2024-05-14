@@ -8,7 +8,7 @@ For more information ℹ️
 
 *   🌍  I'm based in Bangkok, Thailand
 *  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
-*   🚀  I'm currently working on [PIIDataDetector (Machine Learning Project)](http://github.com/jedipw/PIIDataDetector), and [BakingUp (Senior Project)](https://github.com/BakingUp).
+*   🚀  I'm currently working on [BakingUp (Senior Project)](https://github.com/BakingUp).
 *   🧠  I'm currently learning Next.js, Go, Docker, automated CI/CD, and testing.
 
 ### Skills 
