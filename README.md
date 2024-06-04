@@ -1,11 +1,12 @@
 Pawin Nakvisai — @jedipw
 ======================================================================================================================================
 
-Hello 👋, I'm Jedi — a junior computer science student at King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development. I'm currently interning as a full-stack software engineer at Agoda.
+Hello 👋, I'm Jedi — a junior computer science student at King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development.
 
 For more information ℹ️
 ----------------------------------------------------------------------------
 
+*   🧑‍💻  I'm currently interning as a full-stack software engineer at Agoda.
 *   🌍  I'm based in Bangkok, Thailand
 *   🧠  I'm learning Kotlin
 *  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
