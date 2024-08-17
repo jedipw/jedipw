@@ -10,7 +10,7 @@ For more information ℹ️
 *   🌍  I'm based in Bangkok, Thailand
 *   🧠  I'm learning Kotlin, C#, and .NET Core
 *   🖥️  See my portfolio at [Jedipw | Pawin Nakvisai](https://jedipw.com)
-*  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
+*  ℹ️ ✉️  You can contact me at [pawin.nakvisai@gmail.com](mailto:pawin.nakvisai@gmail.com).
 *   🚀  I'm currently working on [BakingUp (Senior Project)](https://github.com/BakingUp).
 
 ### Skills 
