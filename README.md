@@ -8,7 +8,7 @@ For more information ℹ️
 
 *   🧑‍💻  I'm currently interning as a full-stack software engineer at Agoda.
 *   🌍  I'm based in Bangkok, Thailand
-*   🧠  I'm learning Kotlin
+*   🧠  I'm learning Kotlin, C#, and .NET Core
 *   🖥️  See my portfolio at [Jedipw | Pawin Nakvisai](https://jedipw.com)
 *  ℹ️ ✉️  You can contact me at [pawinnak2@gmail.com](mailto:pawinnak2@gmail.com).
 *   🚀  I'm currently working on [BakingUp (Senior Project)](https://github.com/BakingUp).
