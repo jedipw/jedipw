@@ -6,7 +6,6 @@ Hello 👋, I'm Jedi — a computer science graduate student at King Mongkut's U
 For more information ℹ️
 ----------------------------------------------------------------------------
 
-*   🧑‍💻  I'm currently interning as a full-stack software engineer at Agoda.
 *   🌍  I'm based in Bangkok, Thailand
 *   🧠  I'm learning Kotlin, C#, and .NET Core
 *   🖥️  See my portfolio at [Jedipw | Pawin Nakvisai](https://jedipw.com)
