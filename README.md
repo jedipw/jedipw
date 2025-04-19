@@ -1,7 +1,7 @@
 Pawin Nakvisai — @jedipw
 ======================================================================================================================================
 
-Hello 👋, I'm Jedi — a computer science graduate student at King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development.
+Hello 👋, I'm Jedi — a computer science graduate from King Mongkut's University of Technology Thonburi who is passionated about web and mobile application software development.
 
 For more information ℹ️
 ----------------------------------------------------------------------------
